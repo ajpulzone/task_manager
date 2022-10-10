@@ -22,3 +22,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+
+#Learning goals:
+  Understand why model teting is important
+  Setup an RSpec test suite in rails
+  Write model tests for instance methods
+
+#What is a model?
+  The model is the piece of architecture that handles commmunication with the database
+  You are expected to test your models at 100%
